@@ -1,0 +1,1 @@
+var json_HandPump_10 = {"type":"FeatureCollection","name":"HandPump_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Name":"Vettyparambu Pazhay Parambu Thodu","Ward":"1"},"geometry":{"type":"Point","coordinates":[76.804434999999572,9.67836]}}]}
